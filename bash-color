@@ -1,0 +1,2 @@
+PS1='\[\033[0m\]┌──${debian_chroot:+($debian_chroot)──}(''\u@\h'')-[\[\w'']\n''└─''\$ \[\033[;32m\]' 
+trap 'echo -ne "\e[0m"' DEBUG
