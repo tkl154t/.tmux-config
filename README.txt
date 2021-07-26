@@ -1,0 +1,4 @@
+- Put this project to ~/.tmux-config
+- Copy tmux.conf to ~/.tmux.conf
+- Prefix + I to reload env
+- Prefix + r to load config file
